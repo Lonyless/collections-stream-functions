@@ -14,8 +14,6 @@ public class Functions {
         
         f1.generate("mil");
         
-        
-        
         //trabalhando strem com arraylist
         List<String> vet = new ArrayList<>();
         vet.add("t1");
